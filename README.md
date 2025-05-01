@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Park 👨‍💻
 
-🚀 Hi I'm David! I'm a fullstack engineer with a strong foundation in TypeScript, JavaScript, Ruby, PostgreSQL, and the MERN stack, co-creator of Unilogs, a reliable, scalable log observability platform for distributed systems. When away from code, you'll find me at the gym, on the basketball court, cheering for Atlanta sports, or caring for underserved patients.
+🚀 I'm a fullstack engineer with a strong foundation in TypeScript, JavaScript, Ruby, PostgreSQL, and the MERN stack, co-creator of Unilogs, a reliable, scalable log observability platform for distributed systems. When away from code, you'll find me at the gym, on the basketball court, cheering for Atlanta sports, or caring for underserved patients.
 
 ---
 
