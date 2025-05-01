@@ -9,7 +9,7 @@
 Recently, I developed **Unilogs**, An easy-to-deploy, reliable, & highly scalable log observability platform for distributed applications. After a one-step deployment to AWS, it autoscales using Kubernetes & maintains high reliability with a Kafka cluster.
 
 **Technologies Used:**  
-TypeScript, Javascript, Docker, AWS (CLI, CDK, EKS, S3, IAM, EC2, Lambda), Kafka, Vector, Grafana Loki.
+TypeScript, Javascript, Docker, AWS (CLI, CDK, EKS, S3, IAM, EC2, Lambda), Kubernetes, Kafka, Vector, Grafana Loki.
 
 📖 [Read the Unilogs Case Study](https://unilogs.github.io/)  
 
