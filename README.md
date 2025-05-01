@@ -11,7 +11,7 @@ Recently, I developed **Unilogs**, An easy-to-deploy, reliable, & highly scalabl
 **Technologies Used:**  
 TypeScript, Javascript, Docker, AWS (CLI, CDK, EKS, S3, IAM, EC2, Lambda), Kafka, Vector, Grafana Loki.
 
-📖 [Read the Unilogs Case Study](#)  
+📖 [Read the Unilogs Case Study](unilogs.github.io)  
 
 ---
 
