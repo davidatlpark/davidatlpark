@@ -6,7 +6,7 @@
 
 ## ⚡ Unilogs
 
-Recently, I developed **Unilogs**(https://unilogs.github.io/), An easy-to-deploy, reliable, & highly scalable log observability platform for distributed applications. After a one-step deployment to AWS, it autoscales using Kubernetes & maintains high reliability with a Kafka cluster.
+Recently, I developed **Unilogs** (https://unilogs.github.io/), An easy-to-deploy, reliable, & highly scalable log observability platform for distributed applications. After a one-step deployment to AWS, it autoscales using Kubernetes & maintains high reliability with a Kafka cluster.
 
 **Technologies Used:**  
 TypeScript, Javascript, Docker, AWS (CLI, CDK, EKS, S3, IAM, EC2, Lambda), Kubernetes, Kafka, Vector, Grafana Loki.
