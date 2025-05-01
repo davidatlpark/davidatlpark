@@ -25,11 +25,10 @@ TypeScript, Javascript, Docker, AWS (CLI, CDK, EKS, S3, IAM, EC2, Lambda), Kafka
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](#)  
-- [Personal Website](#)
+- [LinkedIn](https://www.linkedin.com/in/davidatlpark/)
 
 ---
 
 ## ⚡ Fun Fact
 
-----
+I used to be a Physician Assistant! In my spare time, I like to provide care to the underserved!
