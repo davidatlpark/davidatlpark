@@ -26,6 +26,7 @@ TypeScript, Javascript, Docker, AWS (CLI, CDK, EKS, S3, IAM, EC2, Lambda), Kuber
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/davidatlpark/)
+- [Resume](https://flowcv.com/resume/s20glirrigmp)
 
 ---
 
